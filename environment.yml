@@ -1,0 +1,17 @@
+name: fake-news
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - wordcloud
+  - nltk
+  - jupyter
+  - pip
+  - pip:
+    - textblob

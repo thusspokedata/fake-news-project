@@ -2,7 +2,7 @@
  <img align="center" src="images/fake-news-quotes-01-830x467.jpeg" width="500" height="250" />
 </p>
 
-# Ironhack Final Projec:
+# Ironhack Final Project
 by [Antonio Saleme](https://www.linkedin.com/in/antonio-saleme-sastre/)
 
 ### Index:
@@ -52,7 +52,7 @@ The first challenge was to prepare the data in the best way to gain as much info
 <a id='section5'></a>
 ### Second step
 
-Y decided to use 3 new notebooks for this project: One for the machine learning, another one for vizualisation and the last one for the NLP<br>
+I decided to use 3 new notebooks for this project: One for the machine learning, another one for visualisation and the last one for the NLP<br>
 [Link to fake and real news machine learning](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_machine_learning.ipynb)<br>
 [Link to fake and real news viz](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_viz.ipynb)<br>
 [Link to fake and real news NLP](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_NLP.ipynb)<br>
@@ -60,7 +60,7 @@ Y decided to use 3 new notebooks for this project: One for the machine learning,
 ### Conclusions
 <a id='section6'></a>
 
-After completing the process I noted that at fist sight the characteristics of fake news and real news were very similar. Looking more closely I found some surprising results: While real news news have longer texts, fake news have 220.86% more unique words. The polarity of the two news types is almost equally high but subjectivity is much higher in fake news. Another striking peculiarity is, that the number of real news grew by 478% between august and october 2017. 
+After completing the process I noted that at first sight the characteristics of fake news and real news were very similar. Looking more closely I found some surprising results: While real news news have longer texts, fake news have 220.86% more unique words. The polarity of the two news types is almost equally high but subjectivity is much higher in fake news. Another striking peculiarity is, that the number of real news grew by 478% between august and october 2017. 
 The good news is that machine learning is able to analyse whether an article is fake news or real news with an effectiveness of 98%.
 
 <img src="images/text subjectivity.png" width="700" height="350" />
